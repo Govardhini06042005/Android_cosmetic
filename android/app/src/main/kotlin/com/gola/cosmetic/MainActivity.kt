@@ -1,0 +1,5 @@
+package com.gola.cosmetic
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
